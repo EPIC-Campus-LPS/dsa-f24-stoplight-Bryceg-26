@@ -15,7 +15,7 @@
 - Add comments to your Python script to explain how it works.
 - Take a short video of your stoplight working and a clear top-down photo of your wiring
 
-- [ ] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
+- [ ] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part III
 
 ## Part III - RBG LED  
 
