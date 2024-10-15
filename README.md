@@ -25,7 +25,7 @@
 - Add comments to your Python script to explain how it works.
 - Take a clear top-down photo of your wiring
 
-- [ ] Upload `rgb_stoplight.py` and your photo then continue to Part IV
+- [x] Upload `rgb_stoplight.py` and your photo then continue to Part IV
 ## Part IV - Starting with a Button
 
 - In a new script `button_stoplight.py`, add a button or touch module to your project to start your RGB stoplight. When the button is pressed the light should light up in the green, yellow, red pattern.
