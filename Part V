@@ -1,0 +1,6 @@
+    What is a Python library and how do you include one in your script?
+A library is a collection of code, "python3 <file_name>.py install"
+    What does it mean for elements of a circuits to be in series vs. in parallel?
+A single flow between each connection vs. connected across from each other
+    Can you create a circuit of 3 light bulbs in series? Why or why not?
+Yes, you just have to connect them to different areas
