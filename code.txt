@@ -1,0 +1,21 @@
+
+def main():
+    times = input("What time??? ")
+    input = convert(times)
+    if 700 <= input <= 800:
+        print("breakfast time")
+    elif 1200 <= input <= 1300:
+        print("lunch time")
+    elif 1800 <=input <= 1900:
+        print("dinner time")
+    else:
+        print("snack time")
+
+def convert(time):
+    x, z = times.split(":")
+    x = float(x)
+    z = float(z)
+    return (x, y)
+
+    if __name__ == "__main__":
+        main()
